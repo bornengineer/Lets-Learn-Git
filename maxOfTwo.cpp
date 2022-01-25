@@ -9,7 +9,7 @@ int max(int x, int y)
 int main()
 {
     int i, j;
-    cout << "Enter the numbers:: " << endl;
+    cout << "Enter the numbers:" << endl;
     cin >> i >> j;
     cout << "The max of the numbers is:" << max(i, j);
 
